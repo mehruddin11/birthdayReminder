@@ -1,0 +1,2 @@
+# birthdayReminder
+clone this repo
