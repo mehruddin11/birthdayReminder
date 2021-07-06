@@ -1,0 +1,26 @@
+export default [
+{
+	name:'mehruddin',
+	id:1,
+	age:21,
+	img:'https://th.bing.com/th/id/R.aa35a34bdbc74690f2a1eafbe2dcd7bd?rik=HvCYLlu%2fQJIK4Q&riu=http%3a%2f%2fclapway.com%2fwp-content%2fuploads%2f2015%2f11%2f13.-Hacker-1.jpg&ehk=hlegChp9QUJRHYdp6WJ9QbmqnVyd5NHbDty1owOU5b8%3d&risl=&pid=ImgRaw'
+},
+{
+	name:'Oggy',
+	id:2,
+	age:32,
+	img:'https://th.bing.com/th/id/R.fc29a4cb6dc14125a65e063ad84ff8d6?rik=TZJR7rUJSfTQyw&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2fnickplus%2fimages%2fe%2fe8%2fOggy.jpg%2frevision%2flatest%3fcb%3d20140726052228&ehk=%2bpaPSmd%2fHvLMtoqlp9lTm5fmR1zktODHP%2fMpLT7lpOE%3d&risl=&pid=ImgRaw'
+},
+{
+	name:'Bob',
+	id:3,
+	age:50,
+	img:'https://i.ytimg.com/vi/U1J3WDJ84Ww/maxresdefault.jpg'
+},
+{
+	name:'Jack',
+	id:4,
+	age:40,
+	img:'https://th.bing.com/th/id/R.627e85aabedcc704e3b37562714337c9?rik=ytmKmhYltmTa8Q&riu=http%3a%2f%2fpre06.deviantart.net%2fbc2f%2fth%2fpre%2fi%2f2015%2f145%2f7%2f8%2fjack___vector__oggy_and_the_cockroaches__by_gt4tube-d8unylw.png&ehk=xNTFocAYIV2sEk13L2VvbEXgCqnHmBy9UCHG9nomBJU%3d&risl=&pid=ImgRaw'
+}
+];
